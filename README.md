@@ -1,4 +1,4 @@
-# workbook8
+# workbook8 https://jiayiqu115.github.io/workbook8/
 problem solving with chat gpt my weather didn't appeared on the cacnvas.
 The issue with the weather data not displaying is likely due to a few problems in your code:
 
